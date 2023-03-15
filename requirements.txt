@@ -1,0 +1,15 @@
+numpy
+scipy
+sympy
+pandas
+matplotlib
+pint
+pint-pandas
+coolprop
+pyromat
+regex
+astor
+rich
+schemdraw
+sigfig
+emoji
